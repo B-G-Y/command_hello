@@ -1,5 +1,8 @@
 // For commman line git tutorial
-// :ocal repository modification
+// First : Local repository modification
+// Second : GitHub modification
+
+>>>>>>> origin/master
 print("Hello World")
 print("Tell your world")
 print("Tell his world")
